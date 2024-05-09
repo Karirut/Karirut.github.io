@@ -17,10 +17,10 @@ const CONFIG = {
       mode: 'automatic', // Mode can be: 'automatic' or 'manual'
       automatic: {
         sortBy: 'stars', // Sort projects by 'stars' or 'updated'
-        limit: 3, // How many projects to display.
+        limit: 2, // How many projects to display.
         exclude: {
-          forks: true, // Forked projects will not be displayed if set to true.
-          projects: [], // These projects will not be displayed. example: ['arifszn/my-project1', 'arifszn/my-project2']
+          forks: false, // Forked projects will not be displayed if set to true.
+          projects: ['Karirut/Evidencia2_analisisR', 'Karirut/evidencia1_analisisR', 'Karirut/capstone_proyect_phyton', 'Karirut/prehack-web' ], // These projects will not be displayed. example: ['arifszn/my-project1', 'arifszn/my-project2']
         },
       },
       manual: {
