@@ -80,23 +80,19 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      '/cv/KarinaRuizTron_CV.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'cv/KarinaRuizTron_CV.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
-    'Laravel',
+    'Python',
+    'C',
+    'C++',
+    'HTML/CSS',
     'JavaScript',
-    'React.js',
-    'Node.js',
-    'Nest.js',
-    'MySQL',
-    'PostgreSQL',
-    'Git',
-    'Docker',
-    'PHPUnit',
-    'CSS',
-    'Antd',
-    'Tailwind',
+    'AVR Assembly',
+    'ROS2',
+    'MATLAB/Simulink',
+    'Microcontrollers',
+    'Microsoft Office',
   ],
   experiences: [
     {
