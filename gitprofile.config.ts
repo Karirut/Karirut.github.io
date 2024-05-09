@@ -57,26 +57,26 @@ const CONFIG = {
     imageURL: '',
   },
   social: {
-    linkedin: 'ariful-alam',
-    twitter: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
-    researchGate: '',
-    facebook: '',
-    instagram: '',
-    reddit: '',
-    threads: '',
-    youtube: '', // example: 'pewdiepie'
-    udemy: '',
-    dribbble: '',
-    behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
-    stackoverflow: '', // example: '1/jeff-atwood'
-    skype: '',
-    telegram: '',
-    website: 'https://www.arifszn.com',
-    phone: '',
-    email: 'arifulalamszn@gmail.com',
+    linkedin: 'karina-ruiz-tron',
+    //twitter: 'arif_szn',
+    //mastodon: 'arifszn@mastodon.social',
+    //researchGate: '',
+    //facebook: '',
+    //instagram: '',
+    //reddit: '',
+    //threads: '',
+    //youtube: '', // example: 'pewdiepie'
+    //udemy: '',
+    //dribbble: '',
+    //behance: '',
+    //medium: 'arifszn',
+    //dev: 'arifszn',
+    //stackoverflow: '', // example: '1/jeff-atwood'
+    //skype: '',
+    //telegram: '',
+    //website: 'https://www.arifszn.com',
+    phone: '+52 5572121753',
+    email: 'karina.rtron@hotmail.com',
   },
   resume: {
     fileUrl:
@@ -124,10 +124,10 @@ const CONFIG = {
   ],
   educations: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'Instituto Tecnológico de Estudios Superiores Monterrey',
+      degree: 'Robotics and Digital Systems Engineer Student',
+      from: '2021',
+      to: '2025 (Projected)',
     },
   ],
   publications: [
@@ -232,7 +232,7 @@ const CONFIG = {
       class="text-primary" href="https://github.com/Karirut/gitprofile"
       target="_blank"
       rel="noreferrer"
-    >GitProfile</a> and ❤️`,
+    >Karirut</a> and ❤️`,
 
   enablePWA: true,
 };
