@@ -52,7 +52,7 @@ const CONFIG = {
           description:
             'I worked alongside other 4 teammates in the fabrication of a canned satellite that needed to send signals to the ground computer and to arrive safely protecting an egg in its interior.',
           imageUrl:
-            'archives/constancia_concurso.jpg',
+            '',
           link: 'http://peu.unam.mx/cansat2023.html',
         },
         {
@@ -60,7 +60,7 @@ const CONFIG = {
           description:
             'I participated in dialog tables with students in different careers and different campuses about climate change. There were also participating expertise in the field.',
           imageUrl:
-            'archives/constanciaEDS.jpg',
+            '',
         },
         {
           title: 'HACKMTY',
