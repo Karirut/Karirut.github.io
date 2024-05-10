@@ -33,20 +33,50 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'HACKMX5',
+          title: 'Peer Program',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            ' shared knowledge and experience with students in their freshman year to help them adapt to the school’s campus and system, in order to be accepted, applicants must participate in psychologic tests and different interviews.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://drive.google.com/file/d/1fKPURK9TnwMYyGr7y58KHl2mlCrLgf_5/view?usp=sharing',
+        },
+        
+        {
+          title: 'Beautiful Patterns',
+          description:
+            'I taught web design lessons to girls between ages 12 to 17 in a one weeklong camp where they learned computational development in the languages of HTML, CSS and Java. The second objective of women teaching girls was to inspire them to be interested in STEM areas.',
+          imageUrl:
+            'https://drive.google.com/file/d/1s4azR-sPh6Y7C13mA9j6KaCu-xCt-rXf/view?usp=sharing',
         },
         {
-          title: 'Project Name',
+          title: 'Concurso Iberoamericano de Satélites Enlatados - Semi Finalist',
+          description:
+            'I worked alongside other 4 teammates in the fabrication of a canned satellite that needed to send signals to the ground computer and to arrive safely protecting an egg in its interior.',
+          imageUrl:
+            'https://drive.google.com/file/d/1J8j6uOLqdjscAqVi8wmmO5STqa3mVBwC/view?usp=sharing',
+          link: 'http://peu.unam.mx/cansat2023.html',
+        },
+        {
+          title: 'First EDS Student Meeting: climate change, problems and perspectives',
+          description:
+            'I participated in dialog tables with students in different careers and different campuses about climate change. There were also participating expertise in the field.',
+          imageUrl:
+            'https://drive.google.com/file/d/18JnBDAjIDDOKvY74owteziftDeIZ6BYV/view?usp=sharing',
+        },
+        {
+          title: 'HACKMTY',
           description:
             'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://drive.google.com/file/d/1HN2xihbTYC5kxoDQ5h30MFoIun1GM6ca/view?usp=sharing',
+          link: 'https://hackmty.com/',
+        },
+        {
+          title: 'HACKMX5 - Third Place Winner',
+          description:
+            'Interpretation and transcription of 911 calls with the objective of classifying those who may be prank calls or the ones that require immediate attention. Apart from the software part, it also contains a display which showed who was calling and the location of the incident, plus an integrated alarm to inform the police or firefighters of the emergency.',
+          imageUrl:
+            'https://drive.google.com/file/d/11U9hIqXfPhHPeN1BjvhPzKRtG61bbkYj/view?usp=sharing',
+          link: 'https://www.instagram.com/techackmx/',
         },
       ],
     },
