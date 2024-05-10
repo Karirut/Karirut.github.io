@@ -37,7 +37,7 @@ const CONFIG = {
           description:
             ' shared knowledge and experience with students in their freshman year to help them adapt to the school’s campus and system, in order to be accepted, applicants must participate in psychologic tests and different interviews.',
           imageUrl:
-            '',
+            'archives/Peer.jpg',
         },
         
         {
@@ -45,14 +45,14 @@ const CONFIG = {
           description:
             'I taught web design lessons to girls between ages 12 to 17 in a one weeklong camp where they learned computational development in the languages of HTML, CSS and Java. The second objective of women teaching girls was to inspire them to be interested in STEM areas.',
           imageUrl:
-            '',
+            'archives/patrones.jpg',
         },
         {
           title: 'Concurso Iberoamericano de Satélites Enlatados - Semi Finalist',
           description:
             'I worked alongside other 4 teammates in the fabrication of a canned satellite that needed to send signals to the ground computer and to arrive safely protecting an egg in its interior.',
           imageUrl:
-            '',
+            'archives/constancia_concurso.jpg',
           link: 'http://peu.unam.mx/cansat2023.html',
         },
         {
@@ -60,14 +60,14 @@ const CONFIG = {
           description:
             'I participated in dialog tables with students in different careers and different campuses about climate change. There were also participating expertise in the field.',
           imageUrl:
-            '',
+            'archives/constanciaEDS.jpg',
         },
         {
           title: 'HACKMTY',
           description:
             'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
           imageUrl:
-            '',
+            'archives/HackMTY.jpg',
           link: 'https://hackmty.com/',
         },
         {
@@ -75,7 +75,7 @@ const CONFIG = {
           description:
             'Interpretation and transcription of 911 calls with the objective of classifying those who may be prank calls or the ones that require immediate attention. Apart from the software part, it also contains a display which showed who was calling and the location of the incident, plus an integrated alarm to inform the police or firefighters of the emergency.',
           imageUrl:
-            '',
+            'archives/Hack_photo.jpg',
           link: 'https://www.instagram.com/techackmx/',
         },
       ],
