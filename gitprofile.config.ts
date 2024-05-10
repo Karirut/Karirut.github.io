@@ -33,7 +33,7 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Project Name',
+          title: 'HACKMX5',
           description:
             'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
           imageUrl:
@@ -96,18 +96,11 @@ const CONFIG = {
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
-      to: 'Present',
-      companyLink: 'https://example.com',
-    },
-    {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+//      company: 'Company Name',
+//      position: 'Position',
+//      from: 'September 2021',
+//      to: 'Present',
+//      companyLink: 'https://example.com',
     },
   ],
   certifications: [
@@ -225,7 +218,7 @@ const CONFIG = {
 
   // Optional Footer. Supports plain text or HTML.
   footer: `Made with <a 
-      class="text-primary" href="https://github.com/Karirut/gitprofile"
+      class="text-primary" href="https://github.com/Karirut"
       target="_blank"
       rel="noreferrer"
     >Karirut</a> and ❤️`,
