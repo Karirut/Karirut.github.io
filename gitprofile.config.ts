@@ -110,7 +110,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://github.com/Karirut/Karirut.github.io/blob/main/cv/KarinaRuizTron_CV.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'archives/KarinaRuizTron_CV.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Python',
