@@ -25,7 +25,7 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['Karirut/ImplementacionRoboticaInteligente', 'AlgoLozano/Lingua_Rescue_THALES'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: ['Karirut/ImplementacionRoboticaInteligente', 'AlgoLozano/Lingua_Rescue_THALES', 'AlogoZano/Stress-level-recognition'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
     external: {
