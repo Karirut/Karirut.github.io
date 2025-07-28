@@ -146,7 +146,7 @@ const CONFIG = {
       institution: 'Instituto Tecnológico de Estudios Superiores Monterrey',
       degree: 'Robotics and Digital Systems Engineer Student',
       from: '2021',
-      to: '2025 (Projected)',
+      to: '2025',
     },
   ],
   publications: [
