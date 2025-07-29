@@ -25,7 +25,7 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['Karirut/ImplementacionRoboticaInteligente', 'AlgoLozano/Lingua_Rescue_THALES', 'AlogoZano/Stress-level-recognition', 'Karirut/IRI-ROS2'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: ['Karirut/IRSI', 'Karirut/warehouse_trilateration', 'Karirut/ImplementacionRoboticaInteligente', 'Karirut/IRI-ROS2', 'AlgoLozano/Lingua_Rescue_THALES', 'AlogoZano/Stress-level-recognition'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
     external: {
@@ -33,42 +33,25 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Peer Program',
+          title: 'Tecnológico de Monterrey',
           description:
-            ' shared knowledge and experience with students in their freshman year to help them adapt to the school’s campus and system, in order to be accepted, applicants must participate in psychologic tests and different interviews.',
+            'Through Smart Logistics and Perceptive Location (SLPL), the goal was to locate packages using Bluetooth and RFID tags within a warehouse, in addition to using a cloud-based database. Through the usage of different tools, my team and I created a 3D map using ROS2 PointCloud and a web page using NodeJS to display the packages’ movement in real time and the database.',
           imageUrl:
             '',
         },
-        
+        {
+          title: 'Purdue University',
+          description:
+            'I functioned as part of the research team under the guidance of Professor Robert Nawrocki. There, alongside my lab mates, I worked on the fabrication process of piezoelectric sensors, where I developed important skills such as teamwork, problem-solving, and time management.',
+          imageUrl:
+            '',
+        },
         {
           title: 'Beautiful Patterns',
           description:
-            'I taught web design lessons to girls between ages 12 to 17 in a one weeklong camp where they learned computational development in the languages of HTML, CSS and Java. The second objective of women teaching girls was to inspire them to be interested in STEM areas.',
+            'I taught web design lessons to girls between ages 12 to 17 in a one-week camp where they learned computational development in HTML, CSS, and Java, to inspire them to be interested in STEM areas. I created and taught a new level centered on robotics using Arduino and basic elements from electronics such as LEDs and resistance.',
           imageUrl:
             '',
-        },
-        {
-          title: 'Concurso Iberoamericano de Satélites Enlatados - Semi Finalist',
-          description:
-            'I worked alongside other 4 teammates in the fabrication of a canned satellite that needed to send signals to the ground computer and to arrive safely protecting an egg in its interior.',
-          imageUrl:
-            '',
-          link: 'http://peu.unam.mx/cansat2023.html',
-        },
-        {
-          title: 'First EDS Student Meeting: climate change, problems and perspectives',
-          description:
-            'I participated in dialog tables with students in different careers and different campuses about climate change. There were also participating expertise in the field.',
-          imageUrl:
-            '',
-        },
-        {
-          title: 'HACKMTY',
-          description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-          imageUrl:
-            '',
-          link: 'https://hackmty.com/',
         },
         {
           title: 'HACKMX5 - Third Place Winner',
@@ -77,6 +60,20 @@ const CONFIG = {
           imageUrl:
             '',
           link: 'https://www.instagram.com/techackmx/',
+        },
+        {
+          title: 'Peer Program',
+          description:
+            'I shared knowledge and experience with students in their freshman year to help them adapt to the school’s campus and system, in order to be accepted, applicants must participate in psychologic tests and different interviews.',
+          imageUrl:
+            '',
+        },
+        {
+          title: 'First EDS Student Meeting: climate change, problems and perspectives',
+          description:
+            'I participated in dialog tables with students in different careers and different campuses about climate change. There were also participating expertise in the field.',
+          imageUrl:
+            '',
         },
       ],
     },
@@ -110,7 +107,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://www.dropbox.com/scl/fi/gvym3faty0hg0zs3iayma/KarinaRuizTron-CV.pdf?rlkey=1nwvljc080ydndah9cbqwvljf&st=ckevtg9m&dl=0', // Empty fileUrl will hide the `Download Resume` button.
+      'https://www.dropbox.com/scl/fi/prlem3d2thxysffq56qe2/KarinaRuizTron_CV.pdf?rlkey=s7r6cpzgok331eiy9xhncs4wg&st=2f1x355v&dl=0', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Python',
@@ -144,7 +141,7 @@ const CONFIG = {
   educations: [
     {
       institution: 'Instituto Tecnológico de Estudios Superiores Monterrey',
-      degree: 'Robotics and Digital Systems Engineer Student',
+      degree: 'Robotics and Digital Systems Engineer',
       from: '2021',
       to: '2025',
     },
